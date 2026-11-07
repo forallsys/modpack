@@ -3,8 +3,8 @@ filename = "cleanswing-1.10-1.21.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "1df3892b57ad00a75c5bb4a6f6b2749aa126e548"
+hash-format = "sha512"
+hash = "73b9ceb4e16d81c9a121271b7c8bebaf25750cedee953a0d2faed43fdf21f2206031691fecfa06807e9e28f8e401c590febfaff71c51a3f73bd3e574dbe861d2"
 mode = "metadata:curseforge"
 
 [update]

@@ -58,7 +58,7 @@ metafile = true
 
 [[files]]
 file = "mods/axiom.pw.toml"
-hash = "d96e1e5aa63a1a6023578fc3d8f4de1239da8bd105769c43ed2798082ff0acf3"
+hash = "45e4a983dc52c23322f9f6f3b4d4e5876eedb4f61d76064098c78167f05e3e17"
 metafile = true
 
 [[files]]
@@ -98,7 +98,7 @@ metafile = true
 
 [[files]]
 file = "mods/clean-swing-through-grass.pw.toml"
-hash = "671a37a0359769efdf835bc190c566856e01b4ad131b692535d38bccacef7489"
+hash = "b2c378906e029b9652f61de9fce569eb5e8d7f3f4d8f58734dd953d09e958c3f"
 metafile = true
 
 [[files]]
@@ -298,7 +298,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "7ba4f98dc55e2e11c19ae9c949dfcb73047f5683e1c1a29373f59f9f1213dc70"
+hash = "0927429ce40959ddd67ffaac03b01c1315003481d67926121e4a905120be6d74"
 metafile = true
 
 [[files]]
