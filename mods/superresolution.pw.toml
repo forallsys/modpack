@@ -1,16 +1,16 @@
 name = "Super Resolution"
-filename = "super_resolution-neoforge-1.21..1.21.1-0.9.1-alpha.1+opengl.jar"
+filename = "super_resolution-neoforge-1.21..1.21.1-0.9.2-alpha.2+opengl.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/Hf3Qz2H3/versions/h1WiF1tx/super_resolution-neoforge-1.21..1.21.1-0.9.1-alpha.1%2Bopengl.jar"
+url = "https://cdn.modrinth.com/data/Hf3Qz2H3/versions/5duqM9dF/super_resolution-neoforge-1.21..1.21.1-0.9.2-alpha.2%2Bopengl.jar"
 hash-format = "sha512"
-hash = "6eced2896bc713992e92fe925477463edf8323fea4c0d906b4b20835829db91ab1f51db0ab8dfab655aa3efe15496abd35d90ab1b5fe78d3735187604e86eedd"
+hash = "cdbb0398f738298b97a1addfc2cdd83e7a4627978a33663d91f1f1bb1659566af6522b0ad1155e610be8cfc9c22932a12c77a3230699a64b8a4479943a96dc0c"
 
 [update]
 [update.modrinth]
 mod-id = "Hf3Qz2H3"
-version = "h1WiF1tx"
+version = "5duqM9dF"
 
 [option]
 optional = true
