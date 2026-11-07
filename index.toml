@@ -347,11 +347,6 @@ hash = "9e51ad85e0ccead24c80ba03117d523ef60a784977c99b098672857566267dfb"
 metafile = true
 
 [[files]]
-file = "mods/gputape.pw.toml"
-hash = "772ca226b885e1dd59f2ad34501727798be4edcc8fcf151e3b8c2a0943c59d19"
-metafile = true
-
-[[files]]
 file = "mods/immediatelyfast.pw.toml"
 hash = "6828b28c310ae427da625473c55b79eb0c7ca42acc76591948644af0c04e3933"
 metafile = true
