@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/DistantHorizons.toml"
+hash = "ea9c91e830ddd99ae614d9a3b63d1f57d72dcbb62f6dd778fe685e667426205e"
+
+[[files]]
 file = "config/connector.json"
 hash = "2d1f049396afdf1ffbb15ee74212a6a4ff8e18463dc5f213ce615fef45a40bc8"
 

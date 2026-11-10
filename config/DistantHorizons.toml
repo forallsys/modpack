@@ -1,0 +1,5 @@
+_version = 5
+
+[client.advanced.graphics]
+# defaulted to disabled as it messes with better clouds
+overrideVanillaGraphicsSettings = false
