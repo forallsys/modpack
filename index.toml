@@ -153,7 +153,7 @@ metafile = true
 
 [[files]]
 file = "mods/copycats.pw.toml"
-hash = "4892513825f87217b6cc3f4d3ec4dcd3965b96dede8cc10d6578c4769102ae8e"
+hash = "b6b702e432d0a9089ab5ccbf0c83951f6afe1315822c668659b8b04e4f3b99f7"
 metafile = true
 
 [[files]]
@@ -483,7 +483,7 @@ metafile = true
 
 [[files]]
 file = "mods/polytone.pw.toml"
-hash = "17adf5afcb0c2f92ccd6d5818c5974500ae031e0c40395b34cda4fbcb738d3e6"
+hash = "9d937a18c45d97e551c97677f5ed65c0a31837ba63e3767dbca7a498dadb9d58"
 metafile = true
 
 [[files]]
