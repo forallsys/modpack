@@ -6,14 +6,14 @@ description = "Asethetic choices that not everyone would like"
 side = "client"
 
 [[flavor_groups.particle_asethetic.choices]]
-id = "particle_off"
-name = "Off"
-description = "Removes optional particle asethetic mods."
-
-[[flavor_groups.particle_asethetic.choices]]
 id = "particle_on"
 name = "On"
 description = "Adds fallingleavesforge, particle-effects, particle-interactions, particular"
+
+[[flavor_groups.particle_asethetic.choices]]
+id = "particle_off"
+name = "Off"
+description = "Removes optional particle asethetic mods."
 
 [flavor_groups.creative]
 name = "Creative Mode Optimisation"
