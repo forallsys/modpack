@@ -572,11 +572,6 @@ hash = "f06a8af1e418242fad3686f5255fe9457a3f00a128ab52d6c7d0a2dc12a6b1b8"
 metafile = true
 
 [[files]]
-file = "mods/the-roads-more-travelled.pw.toml"
-hash = "2cd56626d6ec1c6b366a273043a05fbf7c8cc9d3577513e29ab804bd70ff7cd8"
-metafile = true
-
-[[files]]
 file = "mods/tightfire.pw.toml"
 hash = "8f290653f1c25abf3ab7f66908fe3b4087a995a28a94d694b8c592ffbb11e185"
 metafile = true
