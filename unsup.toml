@@ -28,7 +28,7 @@ description = "Normal non-creative mode flavour."
 [[flavor_groups.creative.choices]]
 id = "creative_mode_on"
 name = "On"
-description = "Installs Axiom and disables world gen mods for superflat to work properly."
+description = "Installs Axiom and disables all world gen mods."
 
 # metafiles
 
@@ -60,4 +60,7 @@ flavors = "creative_mode_off"
 flavors = "creative_mode_off"
 
 [metafile.terralith-no-structures]
+flavors = "creative_mode_off"
+
+[metafile.continents]
 flavors = "creative_mode_off"
