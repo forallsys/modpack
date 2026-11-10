@@ -1,7 +1,7 @@
 # creative flavour
 
 [flavor_groups.particle_asethetic]
-name = "Particle Asethetic Things"
+name = "Optional Particle Asethetics"
 description = "Asethetic choices that not everyone would like"
 side = "client"
 
@@ -16,7 +16,7 @@ name = "On"
 description = "Adds fallingleavesforge, particle-effects, particle-interactions, particular"
 
 [flavor_groups.creative]
-name = "Creative Mode"
+name = "Creative Mode Optimisation"
 description = "Creative building tweaks to the modpack."
 side = "client"
 
