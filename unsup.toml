@@ -13,7 +13,7 @@ description = "Removes optional particle asethetic mods."
 [[flavor_groups.particle_asethetic.choices]]
 id = "particle_on"
 name = "On"
-description = "Adds asethetic mods, mostly particle based stuff."
+description = "Adds fallingleavesforge, particle-effects, particle-interactions, particular"
 
 [flavor_groups.creative]
 name = "Creative Mode"
