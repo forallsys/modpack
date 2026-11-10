@@ -1,7 +1,7 @@
 # creative flavour
 
 [flavor_groups.particle_asethetic]
-name = "particle Asethetic Things"
+name = "Particle Asethetic Things"
 description = "Asethetic choices that not everyone would like"
 side = "client"
 
