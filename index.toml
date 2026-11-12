@@ -221,6 +221,11 @@ hash = "dcaf5f2e28db0b9a127d0167456832341045ddc9aec058c3d9fcf53f618d2404"
 metafile = true
 
 [[files]]
+file = "mods/createloconautics.pw.toml"
+hash = "04ecac76938fdccf20db2b7d83385befa82ec0565a0ccd431577b5973ea74cd3"
+metafile = true
+
+[[files]]
 file = "mods/dark-window-bar.pw.toml"
 hash = "fdd46c7e64a7cfbd91b0bfc838cc79caf6ab081ae481e49e8b7e529d476fc4ab"
 metafile = true
