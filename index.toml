@@ -47,7 +47,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "187eafde5974beee1263538b462b7b8fe2fc8948c5d413980d9796d55928580b"
+hash = "21347d7f9c96cebacb7238dbef2670e2906a11572606016c8184e9485947dacc"
 metafile = true
 
 [[files]]
@@ -57,7 +57,7 @@ metafile = true
 
 [[files]]
 file = "mods/asyncparticles.pw.toml"
-hash = "c147a3f7bca09703e179e6de773861e4a02397507bd1713b8ad448cfda497812"
+hash = "bd51fee38e89b9f22f556bab69377da7ca7ef90f7417276755be8747fef217f7"
 metafile = true
 
 [[files]]
